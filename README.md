@@ -23,7 +23,7 @@
 | 4. 로비 맵(Level) 제작 및 UI 제작 | 4. 게임 최적화 |
 
 ## 4. 일정 관리
-![스크린샷 2024-12-24 190802](https://github.com/user-attachments/assets/110cf2fc-7e0c-440d-b9cd-13329a4e093a)
+![스크린샷 2025-01-01 210504](https://github.com/user-attachments/assets/fd69a0a0-1a28-44ec-adf1-ccd93220f9bf)
 
 ## 5. 프로젝트 후기
 <p>
